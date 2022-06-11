@@ -1,1 +1,1 @@
-This is for trying to branch my repository
+This is for branching
